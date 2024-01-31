@@ -1,3 +1,3 @@
 # sundown-studio
 this website is copy clone of real sundown study  
-Authour - vandana
+Author - vandana
